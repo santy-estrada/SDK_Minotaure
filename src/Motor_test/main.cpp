@@ -15,8 +15,8 @@
 
 // Arduino header pin labels. The Nano RP2040 Connect maps these labels to
 // RP2040 GPIOs through the board variant.
-constexpr uint8_t in1Pin1 = D5;
-constexpr uint8_t in2Pin1 = D4;
+constexpr uint8_t in1Pin1 = D4;
+constexpr uint8_t in2Pin1 = D5;
 
 constexpr uint8_t in1Pin2 = D2;
 constexpr uint8_t in2Pin2 = D3;
